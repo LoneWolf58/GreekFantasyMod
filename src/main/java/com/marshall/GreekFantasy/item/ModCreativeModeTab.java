@@ -9,7 +9,7 @@ public class ModCreativeModeTab
     public static final CreativeModeTab GREEK_FANTASY_TAB = new CreativeModeTab("greek_fantasy_tab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.CELESTIAL_BRONZE_INGOT.get());
+            return new ItemStack(ModItems.CELESTIAL_BRONZE_SHIELD.get());
         }
     };
 }

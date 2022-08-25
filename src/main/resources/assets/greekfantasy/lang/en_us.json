@@ -1,3 +1,14 @@
 {
-  "item.greekfantasy.celestial_bronze_ingot" : "Celestial Bronze Ingot"
+  "item.greekfantasy.celestial_bronze_ingot" : "Celestial Bronze Ingot",
+  "item.greekfantasy.celestial_bronze_sword" : "Celestial Bronze Sword",
+  "item.greekfantasy.celestial_bronze_shield" : "Celestial Bronze Shield",
+
+  "item.greekfantasy.celestial_bronze_helmet" : "Celestial Bronze Helmet",
+  "item.greekfantasy.celestial_bronze_chestplate" : "Celestial Bronze Chestplate",
+  "item.greekfantasy.celestial_bronze_leggings" : "Celestial Bronze Leggings",
+  "item.greekfantasy.celestial_bronze_boots" : "Celestial Bronze Boots"
+
+
+
+
 }
